@@ -1,1 +1,1 @@
-# PatikaOOP7
+OOP abstraction metodu ile ilgili uygulama
