@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\bin\Debug\net8.0\PatikaAbstraction.exe
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\bin\Debug\net8.0\PatikaAbstraction.deps.json
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\bin\Debug\net8.0\PatikaAbstraction.runtimeconfig.json
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\bin\Debug\net8.0\PatikaAbstraction.dll
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\bin\Debug\net8.0\PatikaAbstraction.pdb
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\obj\Debug\net8.0\PatikaAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\obj\Debug\net8.0\PatikaAbstraction.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\obj\Debug\net8.0\PatikaAbstraction.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\obj\Debug\net8.0\PatikaAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\obj\Debug\net8.0\PatikaAbstraction.dll
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\obj\Debug\net8.0\refint\PatikaAbstraction.dll
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\obj\Debug\net8.0\PatikaAbstraction.pdb
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\obj\Debug\net8.0\PatikaAbstraction.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\PatikaAbstraction\PatikaAbstraction\obj\Debug\net8.0\ref\PatikaAbstraction.dll
